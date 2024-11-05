@@ -1,0 +1,18 @@
+current directory: /home/michelle/Desktop/rails-tutorial/vendor/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+/home/michelle/.rbenv/versions/3.2.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/michelle/Desktop/rails-tutorial/vendor/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241105-177477-8wku1j sitelibdir\=./.gem.20241105-177477-8wku1j clean
+
+current directory: /home/michelle/Desktop/rails-tutorial/vendor/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241105-177477-8wku1j sitelibdir\=./.gem.20241105-177477-8wku1j
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/michelle/Desktop/rails-tutorial/vendor/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241105-177477-8wku1j sitelibdir\=./.gem.20241105-177477-8wku1j install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20241105-177477-8wku1j/skiptrace/internal
+
+current directory: /home/michelle/Desktop/rails-tutorial/vendor/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241105-177477-8wku1j sitelibdir\=./.gem.20241105-177477-8wku1j clean

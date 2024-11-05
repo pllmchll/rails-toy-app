@@ -1,0 +1,22 @@
+current directory: /home/michelle/Desktop/rails-tutorial/vendor/ruby/3.2.0/gems/bootsnap-1.18.4/ext/bootsnap
+/home/michelle/.rbenv/versions/3.2.5/bin/ruby extconf.rb
+checking for fdatasync() in unistd.h... yes
+checking for whether -D_GNU_SOURCE is accepted as CPPFLAGS... yes
+checking for whether -O3 is accepted as CFLAGS... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /home/michelle/Desktop/rails-tutorial/vendor/ruby/3.2.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20241105-177477-9ntrs sitelibdir\=./.gem.20241105-177477-9ntrs clean
+
+current directory: /home/michelle/Desktop/rails-tutorial/vendor/ruby/3.2.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20241105-177477-9ntrs sitelibdir\=./.gem.20241105-177477-9ntrs
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/michelle/Desktop/rails-tutorial/vendor/ruby/3.2.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20241105-177477-9ntrs sitelibdir\=./.gem.20241105-177477-9ntrs install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20241105-177477-9ntrs/bootsnap
+
+current directory: /home/michelle/Desktop/rails-tutorial/vendor/ruby/3.2.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20241105-177477-9ntrs sitelibdir\=./.gem.20241105-177477-9ntrs clean
